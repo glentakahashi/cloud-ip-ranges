@@ -1,8 +1,8 @@
 #!/bin/bash
 
-./google.sh
-./amazon.sh
-./microsoft.sh
+./pull-google.sh
+./pull-amazon.sh
+./pull-microsoft.sh
 
 git add google.txt
 git add microsoft.xml
